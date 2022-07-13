@@ -1,0 +1,2 @@
+# react-swapi-http
+React JS application to manage get http requests from SWAPI (https://swapi.dev/)
